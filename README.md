@@ -1,10 +1,10 @@
-# Blogger Article Visitor Increaser
+# Blogger.com (The website) Article Visitor Increaser
 
 <p align="center">
   <img src="Screenshots.jpg" alt="alt text">
 </p>
 
-This is a Python script that sends requests to a Blogger article to increase the
+This is a Python script that sends requests to a Blogger.com article to increase the
 visitor count.
 
 ## Usage
@@ -26,11 +26,14 @@ This script uses the following Python modules :
 
 ## Installation
 
-1. Clone this repository using the command
+1. Make that your system is updated
+2. Clone this repository using the command
    `git clone https://github.com/De-Technocrats/blogvis.git`
-2. Navigate to the repository directory using the command `cd blogvis`.
-3. Install the required Python modules using the command
-   `pip install -r requirements.txt`.
+3. Navigate to the repository directory using the command `cd blogvis`.
+4. Install the required Python modules using the command
+   `pip install -r requirements.txt`
+5. Run the following cmd to use program
+    `python3 blogvis.py`  
 
 Sure! Here's an example of a contribution invitation you can add to your
 README.md file:
