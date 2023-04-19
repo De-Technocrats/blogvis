@@ -27,8 +27,8 @@ This script uses the following Python modules :
 ## Installation
 
 1. Clone this repository using the command
-   `git clone https://github.com/username/repo.git`
-2. Navigate to the repository directory using the command `cd repo`.
+   `git clone https://github.com/De-Technocrats/blogvis.git`
+2. Navigate to the repository directory using the command `cd blogvis`.
 3. Install the required Python modules using the command
    `pip install -r requirements.txt`.
 
